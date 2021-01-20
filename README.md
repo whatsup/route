@@ -68,7 +68,7 @@ render(app)
 
 ## Exact path
 
-The whatsapp route path is worked over regular expression. To have exact paths, insert the `$` at the end of the inserted string or regular expression. Here's an example:
+The whatsup route path is worked over regular expression. To have exact paths, insert the `$` at the end of the inserted string or regular expression. Here's an example:
 
 ```tsx
 import { fractal, Context, Cause } from 'whatsup'
